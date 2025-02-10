@@ -49,7 +49,7 @@
     <a href="https://www.linkedin.com/in/khairun-sultaana-shaik-499445229/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
-    <a href="khairunsultaana.github.io" target="_blank">
+    <a href="https://khairunsultaana.github.io/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=globe" alt="Portfolio Badge" />
     </a>
     <a href="khairunsultaana@gmail.com" target="_blank">
