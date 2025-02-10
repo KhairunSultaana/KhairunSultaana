@@ -4,7 +4,7 @@
   <br />
 
   <a href="https://github.com/KhairunSultaana">
-    <img src="your-profile-picture-url.jpg" alt="Profile Picture" width="200" style="border-radius: 50%;" />  </a>
+    <img src="image.jpg" alt="Profile Picture" width="200" style="border-radius: 50%;" />  </a>
 
   <h1>Khairun Sultaana</h1>
 
