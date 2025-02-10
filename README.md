@@ -60,17 +60,6 @@
   <br />
   <br />
 
-  <h2>Projects</h2>
-
-  <p>
-    <h3><a href="your-project-1-url">Project 1 Name</a></h3>
-    <p>A brief description of Project 1.  Mention key technologies and accomplishments.</p>
-
-    <h3><a href="your-project-2-url">Project 2 Name</a></h3>
-    <p>A brief description of Project 2.  Mention key technologies and accomplishments.</p>
-
-    </p>
-
   <br />
   <br />
 
