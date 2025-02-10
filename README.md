@@ -8,7 +8,7 @@
 
   <h1>Khairun Sultaana</h1>
 
-  <p>Product Development Enthusiast | Aspiring Innovator</p>
+  <p>Product Development Enthusiast | Aspiring Innovator| Software Engineer| Product Management</p>
 
   <br />
   <br />
@@ -37,7 +37,7 @@
   <h2>My Interests</h2>
 
   <p>
-    👀 I'm particularly fascinated by [mention specific areas within product development, e.g., user experience design, agile methodologies, SaaS products, AI-driven solutions, etc.].  I'm always eager to learn more about [mention specific technologies or industries you're interested in, e.g.,  React, Python, FinTech, Healthcare Tech, etc.].
+    👀 I'm particularly fascinated by new AI product development, e.g., user experience design, agile methodologies, SaaS products, AI-driven solutions, etc..  I'm always eager to learn more about complex ideas which need stream lined solutions for scalability. I am fluent in C,CPP and Python. Worked acroos the board in different roles supporting product development.
   </p>
 
   <br />
@@ -46,16 +46,13 @@
   <h2>Connect with Me</h2>
 
   <p>
-    <a href="your-linkedin-profile-url" target="_blank">
+    <a href="https://www.linkedin.com/in/khairun-sultaana-shaik-499445229/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
-    <a href="your-twitter-profile-url" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-    </a>
-    <a href="your-portfolio-url" target="_blank">
+    <a href="khairunsultaana.github.io" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=globe" alt="Portfolio Badge" />
     </a>
-    <a href="mailto:your-email@example.com" target="_blank">
+    <a href="khairunsultaana@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Email Badge" />
     </a>
   </p>
@@ -80,9 +77,13 @@
   <h2>Skills</h2>
 
   <p>
-    <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Badge" />
+    <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white" alt="C Badge" />
+    <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge" />
     <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" alt="Python Badge" />
-    <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" alt="React Badge" />
+    <img src="https://img.shields.io/badge/Full%20Stack-blue?style=for-the-badge" alt="Full Stack Badge" />
+    <img src="https://img.shields.io/badge/Frontend-yellow?style=for-the-badge&logo=react&logoColor=white" alt="Frontend Badge" />
+    <img src="https://img.shields.io/badge/Backend-green?style=for-the-badge&logo=nodejs&logoColor=white" alt="Backend Badge" />
+    <img src="https://img.shields.io/badge/Database-red?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database Badge" />
     </p>
 
   <br />
